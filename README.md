@@ -24,6 +24,4 @@
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vue_js.png" alt="Vue.js" title="Vue.js"/></code>
 </div>
 
-![Hood](https://github.com/user-attachments/assets/b9d8e05f-f93d-41fb-b4e9-dcc2e032fa6b)
-
 
