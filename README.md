@@ -36,6 +36,6 @@
 <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/godot.png">
 </div><br><br>
 <div class="photo" align="center">
-<img src="Hood.jpg" height="400px">
+	<img height="400" alt="image" src="https://github.com/user-attachments/assets/880db8d2-ebb9-4d69-b63f-e269b0ef3fb1" />
 <h3><i>"Programming is like painting, except the paint never dries." Unknown</i></h3></div><br>
 	<div class="coffee" align="center"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/BuyMeACoffee/buymeacoffee3.svg">	<img src="https://img.shields.io/badge/Burger%20King-D62300?style=for-the-badge&logo=Burger%20King&logoColor=white" alt="BurgerKing" title="BurgerKing"/></div>
