@@ -1,5 +1,5 @@
 <b><h1>Tools and Languages</b></h1>
-<div
+<div align="center">
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" alt="Windows" title="Windows"/>
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/>
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/>
@@ -28,7 +28,7 @@
 	<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg">
 	<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg">
 	<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Reddit/reddit1.svg">
-</div>
+</div><br><br>
 <div class="photo" align="center">
 	<img height="400" alt="image" src="https://github.com/user-attachments/assets/880db8d2-ebb9-4d69-b63f-e269b0ef3fb1" />
 <h3><i>"Programming is like painting, except the paint never dries." Unknown</i></h3></div><br>
