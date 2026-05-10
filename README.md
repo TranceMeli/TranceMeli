@@ -1,3 +1,7 @@
+<div class="mentor" align="center">
+<img height="600" alt="Bildschirmfoto_10-5-2026_143145_127 0 0 1" src="https://github.com/user-attachments/assets/33351d13-d381-4155-a658-aee0719152ef" />
+
+
 <b><h1>Tools and Languages</b></h1>
 <div align="center">
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" alt="Windows" title="Windows"/>
