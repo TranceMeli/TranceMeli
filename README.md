@@ -78,11 +78,7 @@
 # Creative Side
 
 <div align="center">
-  <img
-    height="350"
-    alt="Creative Showcase"
-    src="https://github.com/user-attachments/assets/880db8d2-ebb9-4d69-b63f-e269b0ef3fb1"
-  />
+    <img width="1584" height="396" alt="portfolio_banner" src="https://github.com/user-attachments/assets/e61e4e14-050f-4f5e-a569-fe994a99d9f9" />
 </div>
 
 ---
