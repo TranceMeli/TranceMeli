@@ -1,3 +1,14 @@
+# Hi, I'm Melanie 👋
+
+I'm a software developer who enjoys building practical applications, exploring new technologies and continuously improving existing projects.
+
+After completing my training as a Software Developer (Fachinformatikerin für Anwendungsentwicklung), I'm currently focusing on Full Stack development.
+
+I use AI as a development companion for brainstorming, code reviews and exploring different implementation approaches, while making sure I understand and adapt the final solution.
+
+I believe that learning never stops, and I'm always looking for opportunities to grow as a developer.
+
+
 # Developer Portfolio
 
 <div align="center">
