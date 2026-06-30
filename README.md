@@ -6,7 +6,7 @@ After completing my training as a Software Developer (Fachinformatikerin für An
 
 I use AI as a development companion for brainstorming, code reviews and exploring different implementation approaches, while making sure I understand and adapt the final solution.
 
-I believe that learning never stops, and I'm always looking for opportunities to grow as a developer.<br>
+I believe that learning never stops, and I'm always looking for opportunities to grow as a developer.<br><br>
 
 <div align="center">
   <img
@@ -14,9 +14,8 @@ I believe that learning never stops, and I'm always looking for opportunities to
     alt="Banner"
     src="https://github.com/user-attachments/assets/33351d13-d381-4155-a658-aee0719152ef"
   />
-
   <br><br>
-
+  
   <h3>
     "Programming is like painting, except the paint never dries."
   </h3>
