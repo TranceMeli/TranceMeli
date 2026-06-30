@@ -6,10 +6,7 @@ After completing my training as a Software Developer (Fachinformatikerin für An
 
 I use AI as a development companion for brainstorming, code reviews and exploring different implementation approaches, while making sure I understand and adapt the final solution.
 
-I believe that learning never stops, and I'm always looking for opportunities to grow as a developer.
-
-
-# Developer Portfolio
+I believe that learning never stops, and I'm always looking for opportunities to grow as a developer.<br>
 
 <div align="center">
   <img
