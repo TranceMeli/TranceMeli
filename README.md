@@ -14,6 +14,9 @@ Software Developer • Full Stack Enthusiast • Lifelong Learner
     src="https://github.com/user-attachments/assets/33351d13-d381-4155-a658-aee0719152ef"
   />
   <br><br>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/TranceMeli/ColorPalette/main/divider.svg" alt="Visual Divider" width="60%">
+</p>
 
 ### About me<br>
 I'm a software developer who enjoys building practical applications, exploring new technologies and continuously improving existing projects.
@@ -65,7 +68,7 @@ I believe that learning never stops, and I'm always looking for opportunities to
 <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/>
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" alt="JetBrains" title="JetBrains"/>
 <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/godot.png" alt="Godot" title="Godot"/>
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
