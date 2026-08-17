@@ -4,7 +4,7 @@
 <div align="center"><h3>Hi, I'm Melanie 👋</h3></>
 
 <div align="center">
-Software Developer • Full Stack Enthusiast • Lifelong Learner
+Software Developer • Full Stack Enthusiast • Data Analyst • Lifelong Learner
 </>
 <br><br>
 <div align="center">
