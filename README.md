@@ -21,11 +21,12 @@ Software Developer • Full Stack Enthusiast • Data Analyst • Lifelong Learn
 ### About me<br>
 I'm a software developer who enjoys building practical applications, exploring new technologies and continuously improving existing projects.
 
-After completing my training as a Software Developer (Fachinformatikerin für Anwendungsentwicklung), I'm currently focusing on Full Stack development.
+After completing my training as a Software Developer (Fachinformatikerin für Anwendungsentwicklung), I'm currently focusing on Full Stack development, while also exploring data analysis and 2D game development.
 
 I use AI as a development companion for brainstorming, code reviews and exploring different implementation approaches, while making sure I understand and adapt the final solution.
 
-I believe that learning never stops, and I'm always looking for opportunities to grow as a developer.<br><br>
+I believe that learning never stops, and I'm always looking for opportunities to grow as a developer and explore new areas of technology.
+<br><br>
   <h3>
     "Programming is like painting, except the paint never dries."
   </h3>
