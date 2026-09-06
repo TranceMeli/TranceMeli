@@ -7,8 +7,8 @@
 <h3>Hi, I'm Melanie 👋</h3>
 
 Software Developer • Full Stack Enthusiast • Data Analyst • Lifelong Learner
-
-<br><br>
+<br>
+<br>
 
 <img
 height="500"
@@ -16,7 +16,7 @@ alt="Banner"
 src="https://github.com/user-attachments/assets/33351d13-d381-4155-a658-aee0719152ef"
 />
 
-<br><br>
+<br>
 
 <img src="https://raw.githubusercontent.com/TranceMeli/ColorPalette/main/divider.svg" alt="Visual Divider" width="60%">
 
@@ -30,7 +30,7 @@ I use AI as a development companion for brainstorming, code reviews and explorin
 
 I believe that learning never stops, and I'm always looking for opportunities to grow as a developer and explore new areas of technology.
 
-<br><br>
+<br>
 
 <img
 width="1584"
@@ -39,7 +39,7 @@ alt="Portfolio Screenshots"
 src="https://github.com/user-attachments/assets/3cc25dee-cbab-4233-b1a5-4d5bac85db6a"
 />
 
-<br><br>
+<br>
 
 <img src="https://raw.githubusercontent.com/TranceMeli/ColorPalette/main/divider.svg" alt="Visual Divider" width="60%">
 
@@ -144,20 +144,17 @@ Music production - Design - Drawing - Painting - Photography
     title="SoundCloud - Morgeneule"
   />
 </a>
-
 </div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/TranceMeli/ColorPalette/main/divider.svg" alt="Visual Divider" width="60%">
 </p>
-
 <div align="center">
 
 ### Support & Fuel
 
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/BuyMeACoffee/buymeacoffee3.svg">
 <img src="https://img.shields.io/badge/Burger_King-D62300?style=for-the-badge&logo=burgerking&logoColor=white" alt="Burger King" title="Burger King"/>
-
 </div>
 
 <p align="center">
