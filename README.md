@@ -32,6 +32,17 @@ I believe that learning never stops, and I'm always looking for opportunities to
 
 <br><br>
 
+<img
+width="1584"
+height="396"
+alt="Portfolio Screenshots"
+src="https://github.com/user-attachments/assets/3cc25dee-cbab-4233-b1a5-4d5bac85db6a"
+/>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/TranceMeli/ColorPalette/main/divider.svg" alt="Visual Divider" width="60%">
+
 <h3>
   "Programming is like painting, except the paint never dries."
 </h3>
