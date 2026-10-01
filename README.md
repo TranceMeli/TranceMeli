@@ -160,3 +160,13 @@ Music production - Design - Drawing - Painting - Photography
 <p align="center">
   <img src="https://raw.githubusercontent.com/TranceMeli/ColorPalette/main/divider.svg" alt="Visual Divider" width="60%">
 </p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TranceMeli&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranceMeli&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=TranceMeli&theme=transparent&hide_border=true" />
+</p>
+
