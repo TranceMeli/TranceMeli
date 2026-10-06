@@ -65,7 +65,7 @@ A little more about my background, experience, motivation and the way I approach
   <img src="https://img.shields.io/badge/Fragen_%26_Antworten-Persönlich-4DCBE0?style=for-the-badge" alt="Fragen und Antworten">
 </a>
 
-<br><br>
+<br>
 
 #### 🇬🇧 English
 
