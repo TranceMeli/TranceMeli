@@ -41,13 +41,45 @@ src="https://github.com/user-attachments/assets/3cc25dee-cbab-4233-b1a5-4d5bac85
 
 <br>
 
-<img src="https://raw.githubusercontent.com/TranceMeli/ColorPalette/main/divider.svg" alt="Visual Divider" width="60%">
+</div>
 
-<h3>
-  "Programming is like painting, except the paint never dries."
-</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TranceMeli/ColorPalette/main/divider.svg" alt="Visual Divider" width="60%">
+</p>
 
-<i>Unknown</i>
+<div align="center">
+
+### 📄 CV & Personal Information
+
+A little more about my background, experience, motivation and the way I approach software development.
+
+<br>
+
+#### 🇩🇪 Deutsch
+
+<a href="./lebenslauf.md">
+  <img src="https://img.shields.io/badge/Lebenslauf-CV-00A8C6?style=for-the-badge" alt="Lebenslauf">
+</a>
+
+<a href="./frageundantwort.md">
+  <img src="https://img.shields.io/badge/Fragen_%26_Antworten-Persönlich-4DCBE0?style=for-the-badge" alt="Fragen und Antworten">
+</a>
+
+<br><br>
+
+#### 🇬🇧 English
+
+<a href="./lebenslauf_en.md">
+  <img src="https://img.shields.io/badge/CV-Resume-00A8C6?style=for-the-badge" alt="CV">
+</a>
+
+<a href="./frageundantwort_en.md">
+  <img src="https://img.shields.io/badge/Personal_Questions_%26_Answers-About_Me-4DCBE0?style=for-the-badge" alt="Personal Questions and Answers">
+</a>
+
+<br><br>
+
+<i>Interested in getting to know me beyond the code?</i>
 
 </div>
 
@@ -144,17 +176,20 @@ Music production - Design - Drawing - Painting - Photography
     title="SoundCloud - Morgeneule"
   />
 </a>
+
 </div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/TranceMeli/ColorPalette/main/divider.svg" alt="Visual Divider" width="60%">
 </p>
+
 <div align="center">
 
 ### Support & Fuel
 
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/BuyMeACoffee/buymeacoffee3.svg">
 <img src="https://img.shields.io/badge/Burger_King-D62300?style=for-the-badge&logo=burgerking&logoColor=white" alt="Burger King" title="Burger King"/>
+
 </div>
 
 <p align="center">
@@ -169,4 +204,3 @@ Music production - Design - Drawing - Painting - Photography
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=TranceMeli&theme=transparent&hide_border=true" />
 </p>
-
