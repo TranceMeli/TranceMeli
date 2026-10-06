@@ -57,11 +57,11 @@ A little more about my background, experience, motivation and the way I approach
 
 #### 🇩🇪 Deutsch
 
-<a href="./lebenslauf.md">
+<a href="https://github.com/TranceMeli/Anonymous-CV/blob/main/lebenslauf.md">
   <img src="https://img.shields.io/badge/Lebenslauf-CV-00A8C6?style=for-the-badge" alt="Lebenslauf">
 </a>
 
-<a href="./frageundantwort.md">
+<a href="https://github.com/TranceMeli/Anonymous-CV/blob/main/frageundantwort.md">
   <img src="https://img.shields.io/badge/Fragen_%26_Antworten-Persönlich-4DCBE0?style=for-the-badge" alt="Fragen und Antworten">
 </a>
 
@@ -69,14 +69,13 @@ A little more about my background, experience, motivation and the way I approach
 
 #### 🇬🇧 English
 
-<a href="./lebenslauf_en.md">
+<a href="https://github.com/TranceMeli/Anonymous-CV/blob/main/lebenslauf_en.md">
   <img src="https://img.shields.io/badge/CV-Resume-00A8C6?style=for-the-badge" alt="CV">
 </a>
 
-<a href="./frageundantwort_en.md">
+<a href="https://github.com/TranceMeli/Anonymous-CV/blob/main/frageundantwort_en.md">
   <img src="https://img.shields.io/badge/Personal_Questions_%26_Answers-About_Me-4DCBE0?style=for-the-badge" alt="Personal Questions and Answers">
 </a>
-
 <br><br>
 
 <i>Interested in getting to know me beyond the code?</i>
