@@ -86,15 +86,15 @@ src="https://github.com/user-attachments/assets/3cc25dee-cbab-4233-b1a5-4d5bac85
 #### `# Languages & Frameworks`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cs,dotnet,py,js,html,css,react,vue,django,nodejs&perline=10&theme=dark">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,js,html,css,react,vue,django,nodejs&perline=10&theme=light" alt="C#, .NET, Python, JavaScript, HTML, CSS, React, Vue, Django, Node.js">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cs%2Cdotnet%2Cpy%2Cjs%2Chtml%2Ccss%2Creact%2Cvue%2Cdjango%2Cnodejs&perline=10&theme=dark">
+  <img src="https://skillicons.dev/icons?i=cs%2Cdotnet%2Cpy%2Cjs%2Chtml%2Ccss%2Creact%2Cvue%2Cdjango%2Cnodejs&perline=10&theme=light" alt="C#, .NET, Python, JavaScript, HTML, CSS, React, Vue, Django, Node.js">
 </picture>
 
 #### `# Databases & Data`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql,sqlite&perline=10&theme=dark">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite&perline=10&theme=light" alt="MySQL, SQLite">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql%2Csqlite&perline=10&theme=dark">
+  <img src="https://skillicons.dev/icons?i=mysql%2Csqlite&perline=10&theme=light" alt="MySQL, SQLite">
 </picture>
 
 <br>
@@ -108,12 +108,13 @@ src="https://github.com/user-attachments/assets/3cc25dee-cbab-4233-b1a5-4d5bac85
 #### `# Tools`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode,visualstudio,idea,godot,git,github,windows&perline=10&theme=dark">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,godot,git,github,windows&perline=10&theme=light" alt="VS Code, Visual Studio, IntelliJ IDEA, Godot, Git, GitHub, Windows">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode%2Cvisualstudio%2Cgodot%2Cgit%2Cgithub%2Cwindows&perline=10&theme=dark">
+  <img src="https://skillicons.dev/icons?i=vscode%2Cvisualstudio%2Cgodot%2Cgit%2Cgithub%2Cwindows&perline=10&theme=light" alt="VS Code, Visual Studio, Godot, Git, GitHub, Windows">
 </picture>
 
 <br>
 
+<img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="JetBrains">
 <img src="https://img.shields.io/badge/Affinity_Designer-1B72BE?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPkFmZmluaXR5IERlc2lnbmVyPC90aXRsZT48cGF0aCBkPSJNMjQgMi4zNDR2MTkuMzEyQTIuMzQ1IDIuMzQ1IDAgMCAxIDIxLjY1NiAyNEgyLjM0NEEyLjM0NSAyLjM0NSAwIDAgMSAwIDIxLjY1NlYyLjM0NEEyLjM0NSAyLjM0NSAwIDAgMSAyLjM0NCAwaDE5LjMxMkEyLjM0NSAyLjM0NSAwIDAgMSAyNCAyLjM0NFpNMS43NTggMjEuMzA1YzAgLjUxNy40Mi45MzcuOTM4LjkzN2g4LjIyNmwtNC4yOTktNy40NDUgNy41MjgtMTMuMDM5aC0zLjQ4MkwxLjc1OCAxNy4xOTJ2NC4xMTNabTExLjQxOC02Ljg2Ni0yLjcxMi00LjY5OC0xLjc2MSAzLjA1MWExLjA5OCAxLjA5OCAwIDAgMCAuOTUyIDEuNjQ3aDMuNTIxWm05LjA2NiA2Ljg3M3YtNi4wNzVINy43OTlsNC4wNDQgNy4wMDVoOS40NjJhLjkzNy45MzcgMCAwIDAgLjkzNy0uOTNabS0uOTM3LTE5LjU1NGgtNi4yMzJsLTQuMTQ4IDcuMTg1IDMuMTczIDUuNDk2aDguMTQ0VjIuNjg4YS45MzcuOTM3IDAgMCAwLS45MzctLjkzWiIvPjwvc3ZnPg%3D%3D" alt="Affinity Designer">
 <img src="https://img.shields.io/badge/Affinity_Photo-7E4DD2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPkFmZmluaXR5IFBob3RvPC90aXRsZT48cGF0aCBkPSJNMjQgMi4zNDR2MTkuMzEyQTIuMzQ1IDIuMzQ1IDAgMCAxIDIxLjY1NiAyNEgyLjM0NEEyLjM0NSAyLjM0NSAwIDAgMSAwIDIxLjY1NlYyLjM0NEEyLjM0NSAyLjM0NSAwIDAgMSAyLjM0NCAwaDE5LjMxMkEyLjM0NSAyLjM0NSAwIDAgMSAyNCAyLjM0NFptLTEzLjMyOC0uNTg2LS40MS43MDkgNS4wMjEgOC42OTMgNS40My05LjQwMkgxMC42NzJabTIuMjEzIDcuNzAySDExLjEyYS45MDEuOTAxIDAgMCAwLS43NS40NDZsLS45MjUgMS42MDUtLjAwNy4wMTFhLjkwMS45MDEgMCAwIDAgMCAuODcybC45MjQgMS41OTkuMDEuMDE3YS44OTMuODkzIDAgMCAwIC43NTUuNDI4Yy4wMDIgMCAxLjE3OC4wMDEgMS43NjUtLjAwMmEuODg4Ljg4OCAwIDAgMCAuNzUtLjQzNmMuMzExLS41MzkuNjI0LTEuMDc3LjkzMy0xLjYxN2EuODc5Ljg3OSAwIDAgMC0uMDA2LS44NjNsLS4wMDgtLjAxMy0uOTIxLTEuNTk1LS4wMDUtLjAwOGEuODk3Ljg5NyAwIDAgMC0uNzUtLjQ0NFpNMi4zNiAyMi4xOCA5LjY5OSA5LjQ3NUg2LjIxNWwtNC40NTcgNy43MTcuMDAyIDQuMTgyYS45NC45NCAwIDAgMCAuNi44MDZabTExLjg0NC4wNjItNS40NzktOS40ODYtNS40ODUgOS40ODZoMTAuOTY0Wk0xMi45MjYgOC42NzZsLTMuMTI1LTUuNDEtMy4xMjUgNS40MWg2LjI1Wm05LjMxNiA2LjU2SDExLjA4bDQuMDQ2IDcuMDA2aDYuMTk3YS45MzguOTM4IDAgMCAwIC45MTktLjkzN3YtNi4wNjlabS0uNjM1LTEzLjQyOC03LjI5NSAxMi42M2g3LjkzVjIuNjk1YS45MzguOTM4IDAgMCAwLS42MzUtLjg4N1oiLz48L3N2Zz4%3D" alt="Affinity Photo">
 
