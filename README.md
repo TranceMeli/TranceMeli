@@ -188,6 +188,15 @@ Music production · Design · Drawing · Painting · Photography
 
 <br><br>
 
+#### `# Contribution snake`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg">
+  <img src="assets/snake.svg" alt="Snake eating my GitHub contributions" width="100%">
+</picture>
+
+<br><br>
+
 #### `# Powered by`
 
 <img src="https://img.shields.io/badge/Coffee-6F4E37?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Coffee" title="Coffee"/>
