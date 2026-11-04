@@ -181,8 +181,14 @@ Music production · Design · Drawing · Painting · Photography
 
 ## `def github_stats():`
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TranceMeli&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" alt="GitHub stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranceMeli&layout=compact&theme=transparent&hide_border=true" alt="Top languages"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
+  <img src="assets/stats.svg" alt="GitHub stats" width="49%">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/langs-dark.svg">
+  <img src="assets/langs.svg" alt="Top languages" width="49%">
+</picture>
 
 <img src="https://streak-stats.demolab.com?user=TranceMeli&theme=transparent&hide_border=true" alt="GitHub streak"/>
 
