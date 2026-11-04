@@ -190,7 +190,10 @@ Music production · Design · Drawing · Painting · Photography
   <img src="assets/langs.svg" alt="Top languages" width="49%">
 </picture>
 
-<img src="https://streak-stats.demolab.com?user=TranceMeli&theme=transparent&hide_border=true" alt="GitHub streak"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg">
+  <img src="assets/streak.svg" alt="GitHub streak" width="49%">
+</picture>
 
 <br><br>
 

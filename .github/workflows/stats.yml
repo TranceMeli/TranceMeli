@@ -27,7 +27,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/stats.svg assets/stats-dark.svg assets/langs.svg assets/langs-dark.svg
+          git add assets/stats.svg assets/stats-dark.svg assets/langs.svg assets/langs-dark.svg assets/streak.svg assets/streak-dark.svg
           git diff --staged --quiet || git commit -m "chore: update stats"
           git pull --rebase
           git push
