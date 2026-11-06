@@ -5,19 +5,19 @@
   <clipPath id="bar-light"><rect x="25" y="50" width="445" height="10" rx="5"/></clipPath>
   <rect x="25" y="50" width="445" height="10" rx="5" fill="#F2F2F2"/>
   <g clip-path="url(#bar-light)">
-    <rect x="25.00" y="50" width="106.03" height="10" fill="#3572A5"/>
-    <rect x="131.03" y="50" width="86.55" height="10" fill="#41B883"/>
-    <rect x="217.59" y="50" width="75.79" height="10" fill="#178600"/>
-    <rect x="293.37" y="50" width="63.08" height="10" fill="#F1E05A"/>
-    <rect x="356.46" y="50" width="51.66" height="10" fill="#663399"/>
-    <rect x="408.12" y="50" width="25.09" height="10" fill="#355570"/>
-    <rect x="433.21" y="50" width="19.69" height="10" fill="#E34C26"/>
-    <rect x="452.90" y="50" width="17.10" height="10" fill="#3178C6"/>
+    <rect x="25.00" y="50" width="106.30" height="10" fill="#3572A5"/>
+    <rect x="131.30" y="50" width="86.59" height="10" fill="#41B883"/>
+    <rect x="217.89" y="50" width="75.54" height="10" fill="#178600"/>
+    <rect x="293.43" y="50" width="63.23" height="10" fill="#F1E05A"/>
+    <rect x="356.66" y="50" width="51.67" height="10" fill="#663399"/>
+    <rect x="408.33" y="50" width="25.01" height="10" fill="#355570"/>
+    <rect x="433.33" y="50" width="19.62" height="10" fill="#E34C26"/>
+    <rect x="452.96" y="50" width="17.04" height="10" fill="#3178C6"/>
   </g>
   <circle cx="30" cy="84" r="5" fill="#3572A5"/>
-  <text x="43" y="88" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#5A5A5A">Python<tspan fill="#8C8C8C"> 23.8%</tspan></text>
+  <text x="43" y="88" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#5A5A5A">Python<tspan fill="#8C8C8C"> 23.9%</tspan></text>
   <circle cx="30" cy="104" r="5" fill="#41B883"/>
-  <text x="43" y="108" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#5A5A5A">Vue<tspan fill="#8C8C8C"> 19.4%</tspan></text>
+  <text x="43" y="108" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#5A5A5A">Vue<tspan fill="#8C8C8C"> 19.5%</tspan></text>
   <circle cx="30" cy="124" r="5" fill="#178600"/>
   <text x="43" y="128" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#5A5A5A">C#<tspan fill="#8C8C8C"> 17.0%</tspan></text>
   <circle cx="30" cy="144" r="5" fill="#F1E05A"/>
@@ -30,5 +30,5 @@
   <text x="273" y="108" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#5A5A5A">HTML<tspan fill="#8C8C8C"> 4.4%</tspan></text>
   <circle cx="260" cy="124" r="5" fill="#3178C6"/>
   <text x="273" y="128" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#5A5A5A">TypeScript<tspan fill="#8C8C8C"> 3.8%</tspan></text>
-  <text x="470" y="183" text-anchor="end" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="10" fill="#8C8C8C">updated 2026-11-05</text>
+  <text x="470" y="183" text-anchor="end" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="10" fill="#8C8C8C">updated 2026-11-06</text>
 </svg>
