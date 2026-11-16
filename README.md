@@ -33,6 +33,26 @@ src="https://github.com/user-attachments/assets/33351d13-d381-4155-a658-aee07191
 
 <div align="center">
 
+## `def looking_for_a_mentor():`
+
+<a href="https://github.com/TranceMeli/Mentorensuche">
+<img
+width="560"
+alt="Mentor gesucht: angehende Fachinformatikerin Anwendungsentwicklung, ab sofort, Karlsruhe und Umgebung, remote möglich, umzugsbereit"
+src="https://raw.githubusercontent.com/TranceMeli/Mentorensuche/main/mentor_gesucht.svg"
+/>
+</a>
+
+<i>Currently looking for a mentor – click the image for details.</i>
+
+</div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TranceMeli/ColorPalette/main/divider.svg" alt="" width="60%">
+</p>
+
+<div align="center">
+
 ## `def about_me():`
 
 I'm a software developer who enjoys building practical applications, exploring new technologies and continuously improving existing projects.
@@ -64,7 +84,7 @@ src="https://github.com/user-attachments/assets/3cc25dee-cbab-4233-b1a5-4d5bac85
 | Project | Stack | What it is |
 |:--|:--|:--|
 | [**JobMatch**](https://github.com/TranceMeli/JobMatch) | React · ASP.NET Core · .NET 10 | Two-sided job matching platform for job seekers and companies |
-| [**CheckIn**](https://github.com/TranceMeli/CheckIn) | React · ASP.NET Core 8 · MSSQL | Attendance tracking with JWT refresh token rotation, roles and an analytics dashboard |
+| [**CheckIn**](https://github.com/TranceMeli/CheckIn) | React · ASP.NET Core · .NET 10 · MSSQL | Attendance tracking with JWT refresh token rotation, roles and an analytics dashboard |
 | [**ApplicationTracker**](https://github.com/TranceMeli/ApplicationTracker) | Vue 3 · Django REST · SQLite | Job application tracker with configurable fields, attachments and DE/EN interface |
 | [**VueDjangoJWTAuth**](https://github.com/TranceMeli/VueDjangoJWTAuth) | Vue 3 · Django | Auth template with HttpOnly-cookie refresh tokens and role-based dashboards |
 | [**SassyBot**](https://github.com/TranceMeli/SassyBot) | Python · Gemini API | Modular chatbot with TF-IDF retrieval |
