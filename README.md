@@ -12,7 +12,7 @@
 
 <a href="https://github.com/TranceMeli/Mentorensuche">
 <img
-width="560"
+width="440"
 alt="Mentor gesucht: angehende Fachinformatikerin Anwendungsentwicklung, ab sofort, Karlsruhe und Umgebung, remote möglich, umzugsbereit"
 src="https://raw.githubusercontent.com/TranceMeli/Mentorensuche/main/mentor_gesucht.svg"
 />
