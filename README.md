@@ -10,11 +10,13 @@
 
 <br>
 
+<a href="https://github.com/TranceMeli/Mentorensuche">
 <img
-height="500"
-alt="Banner"
-src="https://github.com/user-attachments/assets/33351d13-d381-4155-a658-aee0719152ef"
+width="560"
+alt="Mentor gesucht: angehende Fachinformatikerin Anwendungsentwicklung, ab sofort, Karlsruhe und Umgebung, remote möglich, umzugsbereit"
+src="https://raw.githubusercontent.com/TranceMeli/Mentorensuche/main/mentor_gesucht.svg"
 />
+</a>
 
 <br><br>
 
@@ -24,26 +26,6 @@ src="https://github.com/user-attachments/assets/33351d13-d381-4155-a658-aee07191
 <a href="https://github.com/TranceMeli/Anonymous-CV/blob/main/lebenslauf_en.md">
   <img src="https://img.shields.io/badge/CV-Resume-4DCBE0?style=for-the-badge" alt="CV">
 </a>
-
-</div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TranceMeli/ColorPalette/main/divider.svg" alt="" width="60%">
-</p>
-
-<div align="center">
-
-## `def looking_for_a_mentor():`
-
-<a href="https://github.com/TranceMeli/Mentorensuche">
-<img
-width="560"
-alt="Mentor gesucht: angehende Fachinformatikerin Anwendungsentwicklung, ab sofort, Karlsruhe und Umgebung, remote möglich, umzugsbereit"
-src="https://raw.githubusercontent.com/TranceMeli/Mentorensuche/main/mentor_gesucht.svg"
-/>
-</a>
-
-<i>Currently looking for a mentor – click the image for details.</i>
 
 </div>
 
