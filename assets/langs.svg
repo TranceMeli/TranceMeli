@@ -5,33 +5,33 @@
   <clipPath id="bar-light"><rect x="25" y="50" width="445" height="10" rx="5"/></clipPath>
   <rect x="25" y="50" width="445" height="10" rx="5" fill="#F2F2F2"/>
   <g clip-path="url(#bar-light)">
-    <rect x="25.00" y="50" width="100.54" height="10" fill="#3572A5"/>
-    <rect x="125.54" y="50" width="93.73" height="10" fill="#F1E05A"/>
-    <rect x="219.26" y="50" width="91.22" height="10" fill="#41B883"/>
-    <rect x="310.48" y="50" width="67.32" height="10" fill="#178600"/>
-    <rect x="377.80" y="50" width="41.92" height="10" fill="#663399"/>
-    <rect x="419.72" y="50" width="22.51" height="10" fill="#3178C6"/>
-    <rect x="442.23" y="50" width="14.91" height="10" fill="#355570"/>
-    <rect x="457.14" y="50" width="12.64" height="10" fill="#E34C26"/>
+    <rect x="25.00" y="50" width="99.36" height="10" fill="#3572A5"/>
+    <rect x="124.36" y="50" width="94.75" height="10" fill="#F1E05A"/>
+    <rect x="219.11" y="50" width="92.90" height="10" fill="#41B883"/>
+    <rect x="312.00" y="50" width="66.42" height="10" fill="#178600"/>
+    <rect x="378.42" y="50" width="41.96" height="10" fill="#663399"/>
+    <rect x="420.38" y="50" width="22.22" height="10" fill="#3178C6"/>
+    <rect x="442.59" y="50" width="14.71" height="10" fill="#355570"/>
+    <rect x="457.31" y="50" width="12.48" height="10" fill="#E34C26"/>
     <rect x="469.78" y="50" width="0.22" height="10" fill="#8C8C8C"/>
   </g>
   <circle cx="30" cy="84" r="5" fill="#3572A5"/>
-  <text x="43" y="88" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#5A5A5A">Python<tspan fill="#8C8C8C"> 22.6%</tspan></text>
+  <text x="43" y="88" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#5A5A5A">Python<tspan fill="#8C8C8C"> 22.3%</tspan></text>
   <circle cx="30" cy="104" r="5" fill="#F1E05A"/>
-  <text x="43" y="108" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#5A5A5A">JavaScript<tspan fill="#8C8C8C"> 21.1%</tspan></text>
+  <text x="43" y="108" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#5A5A5A">JavaScript<tspan fill="#8C8C8C"> 21.3%</tspan></text>
   <circle cx="30" cy="124" r="5" fill="#41B883"/>
-  <text x="43" y="128" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#5A5A5A">Vue<tspan fill="#8C8C8C"> 20.5%</tspan></text>
+  <text x="43" y="128" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#5A5A5A">Vue<tspan fill="#8C8C8C"> 20.9%</tspan></text>
   <circle cx="30" cy="144" r="5" fill="#178600"/>
-  <text x="43" y="148" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#5A5A5A">C#<tspan fill="#8C8C8C"> 15.1%</tspan></text>
+  <text x="43" y="148" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#5A5A5A">C#<tspan fill="#8C8C8C"> 14.9%</tspan></text>
   <circle cx="30" cy="164" r="5" fill="#663399"/>
   <text x="43" y="168" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#5A5A5A">CSS<tspan fill="#8C8C8C"> 9.4%</tspan></text>
   <circle cx="260" cy="84" r="5" fill="#3178C6"/>
-  <text x="273" y="88" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#5A5A5A">TypeScript<tspan fill="#8C8C8C"> 5.1%</tspan></text>
+  <text x="273" y="88" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#5A5A5A">TypeScript<tspan fill="#8C8C8C"> 5.0%</tspan></text>
   <circle cx="260" cy="104" r="5" fill="#355570"/>
   <text x="273" y="108" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#5A5A5A">GDScript<tspan fill="#8C8C8C"> 3.3%</tspan></text>
   <circle cx="260" cy="124" r="5" fill="#E34C26"/>
   <text x="273" y="128" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#5A5A5A">HTML<tspan fill="#8C8C8C"> 2.8%</tspan></text>
   <circle cx="260" cy="144" r="5" fill="#8C8C8C"/>
   <text x="273" y="148" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#5A5A5A">Other<tspan fill="#8C8C8C"> 0.0%</tspan></text>
-  <text x="470" y="183" text-anchor="end" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="10" fill="#8C8C8C">updated 2026-11-17</text>
+  <text x="470" y="183" text-anchor="end" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="10" fill="#8C8C8C">updated 2026-11-18</text>
 </svg>
