@@ -49,7 +49,7 @@ I use AI as a development companion for brainstorming, code reviews and explorin
 <img
 width="100%"
 alt="Screenshots of my portfolio website"
-src="https://github.com/user-attachments/assets/3cc25dee-cbab-4233-b1a5-4d5bac85db6a"
+src="assets/portfolio-preview.png"
 />
 </a>
 
